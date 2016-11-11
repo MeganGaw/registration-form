@@ -1,0 +1,17 @@
+html {
+   font-family: 'Open Sans', sans-serif;
+}
+
+
+
+@media only screen and (min-width: 60em) {
+
+  form {
+    background: #fff;
+  }
+
+  html {
+    background: #f2f2f2;
+  }
+  
+}
